@@ -1,213 +1,194 @@
-<p align="center">
-<a href="https://github.com/tabler/tabler"><img src="https://raw.githubusercontent.com/tabler/tabler/dev/src/static/logo.svg" alt="A premium and open source dashboard template with a responsive and high-quality UI." width="300"></a><br><br>
-A premium and open source dashboard template with a responsive and high-quality UI.
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+<a href="https://github.com/tabler/tabler"><img src="https://raw.githubusercontent.com/tabler/tabler/dev/src/static/logo.svg" alt="优质开源仪表板模板，具有响应灵敏且高质量的 UI。" width="300" style="max-width: 100%;"></a><br><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+优质开源仪表板模板，具有响应灵敏且高质量的 UI。
+</font></font></p>
+<p align="center" dir="auto">
+<a href="https://www.npmjs.com/package/@tabler/core" rel="nofollow"><img src="https://camo.githubusercontent.com/342e5dae91fe7b59ec25a8552a5e9d03ac9ab3591bd0a55a324aa894c082de0b/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f407461626c65722f636f72653f636f6c6f723d313836346162266c6162656c3d4c61746573742b76657273696f6e" alt="NPM版本" data-canonical-src="https://img.shields.io/npm/v/@tabler/core?color=1864ab&amp;label=Latest+version" style="max-width: 100%;"></a>
+<a href="https://www.npmjs.com/package/@tabler/core" rel="nofollow"><img alt="NPM 下载" src="https://camo.githubusercontent.com/e08dcb59b8e73073b0d011aeec96003b3f519b909e99fc9c978d3bce5e575b1e/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f407461626c65722f636f72653f636f6c6f723d313937316332266c6162656c3d446f776e6c6f616473" data-canonical-src="https://img.shields.io/npm/dm/@tabler/core?color=1971c2&amp;label=Downloads" style="max-width: 100%;"></a>
+<a href="https://preview.tabler.io" rel="nofollow"><img src="https://camo.githubusercontent.com/158685eccaeae210075d4e2d25a7e6787c017f4aaff5b3c72735b1ca946b4a86/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d44656d6f266d6573736167653d7072657669657726636f6c6f723d323238626536" alt="表格预览" data-canonical-src="https://img.shields.io/static/v1?label=Demo&amp;message=preview&amp;color=228be6" style="max-width: 100%;"></a>
+<a href="https://github.com/tabler/tabler/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/a63310824bcb38b6eb2f95505a13d352d9ed573b397c46594df24fd45145a7a5/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f7461626c65722e7376673f6c6162656c3d4c6963656e7365266d6573736167653d4d495426636f6c6f723d316337656436" alt="执照" data-canonical-src="https://img.shields.io/npm/l/tabler.svg?label=License&amp;message=MIT&amp;color=1c7ed6" style="max-width: 100%;"></a>
+<a href="https://github.com/tabler/tabler/archive/dev.zip"><img src="https://camo.githubusercontent.com/b5ad6cb64a2f5eec88559631915c4c23d324c713708ded70fe66cc9b829fb83e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446f776e6c6f6164266d6573736167653d5a495026636f6c6f723d333339616630" alt="表格预览" data-canonical-src="https://img.shields.io/static/v1?label=Download&amp;message=ZIP&amp;color=339af0" style="max-width: 100%;"></a>
+<a href="https://github.com/tabler/tabler/actions/workflows/test.yml"><img alt="测试构建" src="https://github.com/tabler/tabler/actions/workflows/test.yml/badge.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/tabler/tabler"><img alt="GitHub 星星" src="https://camo.githubusercontent.com/271db4422e01d47726a6e109608c5eae36e1e332b2be07a9793e9cfc63ae48c5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7461626c65722f7461626c65723f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/stars/tabler/tabler?style=social" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-<a href="https://www.npmjs.com/package/@tabler/core" target="__blank"><img src="https://img.shields.io/npm/v/@tabler/core?color=1864ab&label=Latest+version" alt="NPM version"></a>
-<a href="https://www.npmjs.com/package/@tabler/core" target="__blank"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/@tabler/core?color=1971c2&label=Downloads"></a>
-<a href="https://preview.tabler.io" target="__blank"><img src="https://img.shields.io/static/v1?label=Demo&message=preview&color=228be6" alt="Tabler preview"></a>
-<a href="https://github.com/tabler/tabler/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/tabler.svg?label=License&message=MIT&color=1c7ed6" alt="License"></a>
-<a href="https://github.com/tabler/tabler/archive/dev.zip" target="__blank"><img src="https://img.shields.io/static/v1?label=Download&message=ZIP&color=339af0" alt="Tabler preview"></a>
-<a href="https://github.com/tabler/tabler/actions/workflows/test.yml" target="__blank"><img alt="Test build" src="https://github.com/tabler/tabler/actions/workflows/test.yml/badge.svg"></a>
-<a href="https://github.com/tabler/tabler" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tabler/tabler?style=social"></a>
-</p>
-
-<p align="center">
+<p align="center" dir="auto">
   <a href="https://github.com/sponsors/codecalm">
-    <img src='https://raw.githubusercontent.com/tabler/static/main/sponsors.svg'>
+    <img src="https://raw.githubusercontent.com/tabler/static/main/sponsors.svg" style="max-width: 100%;">
   </a>
 </p>
-
-
-## 🔎 Preview
-
-Tabler is fully responsive and compatible with all modern browsers. Thanks to its modern and user-friendly design you can create a fully functional interface that users will love! Choose the layouts and components you need and customize them to make your design consistent and eye-catching. Every component has been created with attention to detail to make your interface beautiful! <a href="https://preview.tabler.io">Show me a demo</a>
-
-<a href="https://preview.tabler.io" target="_blank"><img src="https://raw.githubusercontent.com/tabler/tabler/dev/src/static/tabler-preview.png" alt="Tabler preview"></a>
-
-
-## 🚀 Features
-
-We've created this admin panel for everyone who wants to create templates based on our pre-made components. Our mission is to deliver a user-friendly, clear and easy administration panel that can be used by both simple websites and sophisticated systems. The only requirement is basic HTML and CSS (and some [Liquid](https://github.com/Shopify/liquid/wiki)) knowledge — as a reward, you'll be able to manage and visualize different types of data in the easiest possible way!
-
-* **Responsive:** With the support for mobile, tablet and desktop displays, it doesn’t matter what device you’re using. Tabler is responsive in all major browsers.
-* **Cross Browser:** Our theme works perfectly with the latest Chrome, Firefox+, Safari, Opera, Edge and mobile browsers. We work hard to provide continuous support for them.
-* **HTML5 & CSS3:** We use only modern web technologies, such as HTML5 and CSS3. Our theme includes some subtle CSS3 animations, which will help you attract attention.
-* **Clean Code:** We followed Bootstrap’s guidelines carefully to make your integration as easy as possible. All code is handwritten and W3C valid.
-* **Demo pages**: Tabler features over 20 individual pages using various components, which gives you the freedom to choose and combine. All components can vary in color and styling that you can easily modify using Sass. Sky is the limit!
-* **Single Page Application versions:** [Tabler React](https://github.com/tabler/tabler-react) has React components for Tabler.
-
-## 📖 Documentation
-
-Documentation is available as a part of Tabler preview: https://tabler.io/docs/
-
-To run the documentation site locally, follow instructions in the [Documentation README](https://github.com/tabler/tabler/blob/dev/site/README.md).
-
-## 🪴 Project Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/61d1db34446967b0848af68198a392067e0f5870.svg "Repobeats analytics image")
-
-## 💕 Sponsor Tabler
-
-<a href="https://github.com/sponsors/codecalm" target="_blank"><img src="/src/static/sponsor-banner-readme.png?raw=true" alt="Sponsor Tabler" /></a>
-
-
-### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up in this README with a link to your website. [Become a sponsor!](https://opencollective.com/tabler#sponsor)
-
-<a href="https://opencollective.com/tabler/tiers/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/0/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/1/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/1/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/2/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/2/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/3/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/3/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/4/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/4/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/5/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/5/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/6/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/6/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/7/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/7/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/8/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/8/avatar.svg" /></a>
-<a href="https://opencollective.com/tabler/tiers/sponsor/9/website" target="_blank"><img src="https://opencollective.com/tabler/tiers/sponsor/9/avatar.svg" /></a>
-
-
-## 📦 Setup environment
-
-To use our build system and run our documentation locally, you'll need a copy of Tabler's source files. Follow the steps below:
-
-1. [Install Node.js](https://nodejs.org/download/), which we use to manage our dependencies.
-2. Navigate to the root `/tabler` directory and run `pnpm install` to install our local dependencies listed in `package.json`.
-3. [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/) - the recommended version is [2.7.6](https://cache.ruby-lang.org/pub/ruby/2.7/ruby-2.7.6.tar.gz).
-4. [Install Bundler](https://bundler.io) with `gem install bundler` and finally run `bundle install`. It will install all Ruby dependencies, such as [Jekyll and plugins](https://jekyllrb.com).
-
-**OSX users**:
-
-1. NPM ```pnpm install```
-2. install Ruby (2.5.* recommended)
-	```brew install ruby @2.5```
-3. install bundler
-	```gem install bundler```
-4. install
-	```bundle install```
-- if bundler get any errors try
-```
-sudo rm -rf /Library/Developer/CommandLineTools
+<h2 tabindex="-1" dir="auto"><a id="user-content--preview" class="anchor" aria-hidden="true" tabindex="-1" href="#-preview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔎 预览</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tabler 具有完全响应能力并与所有现代浏览器兼容。</font><font style="vertical-align: inherit;">凭借其现代且用户友好的设计，您可以创建用户会喜欢的功能齐全的界面！</font><font style="vertical-align: inherit;">选择您需要的布局和组件并对其进行自定义，以使您的设计一致且引人注目。</font><font style="vertical-align: inherit;">每个组件的创建都注重细节，使您的界面美观！</font></font><a href="https://preview.tabler.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">给我看一个演示</font></font></a></p>
+<p dir="auto"><a href="https://preview.tabler.io" rel="nofollow"><img src="https://raw.githubusercontent.com/tabler/tabler/dev/src/static/tabler-preview.png" alt="表格预览" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--features" class="anchor" aria-hidden="true" tabindex="-1" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 特点</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们为每个想要基于我们预制组件创建模板的人创建了这个管理面板。</font><font style="vertical-align: inherit;">我们的使命是提供一个用户友好、清晰且简单的管理面板，可供简单的网站和复杂的系统使用。</font><font style="vertical-align: inherit;">唯一的要求是基本的 HTML 和 CSS（以及一些</font></font><a href="https://github.com/Shopify/liquid/wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liquid</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）知识 - 作为奖励，您将能够以最简单的方式管理和可视化不同类型的数据！</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">响应式：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由于支持移动设备、平板电脑和桌面显示器，因此无论您使用什么设备。</font><font style="vertical-align: inherit;">Tabler 在所有主要浏览器中都具有响应能力。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨浏览器：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的主题与最新的 Chrome、Firefox+、Safari、Opera、Edge 和移动浏览器完美配合。</font><font style="vertical-align: inherit;">我们努力为他们提供持续的支持。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML5 和 CSS3：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们仅使用现代网络技术，例如 HTML5 和 CSS3。</font><font style="vertical-align: inherit;">我们的主题包括一些微妙的 CSS3 动画，这将帮助您吸引注意力。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">干净的代码：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们仔细遵循 Bootstrap 的指南，以使您的集成尽可能简单。</font><font style="vertical-align: inherit;">所有代码均为手写且 W3C 有效。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示页面</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Tabler 具有 20 多个使用各种组件的单独页面，让您可以自由选择和组合。</font><font style="vertical-align: inherit;">所有组件的颜色和样式都可能有所不同，您可以使用 Sass 轻松修改它们。</font><font style="vertical-align: inherit;">天空才是极限！</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单页应用程序版本：</font></font></strong> <a href="https://github.com/tabler/tabler-react"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tabler React</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">具有适用于 Tabler 的 React 组件。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖 文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档作为 Tabler 预览的一部分提供： https: </font></font><a href="https://tabler.io/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//tabler.io/docs/</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要在本地运行文档站点，请按照</font></font><a href="https://github.com/tabler/tabler/blob/dev/site/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档自述文件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的说明进行操作。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--project-activity" class="anchor" aria-hidden="true" tabindex="-1" href="#-project-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🪴项目活动</font></font></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dfec28fbe7f7a06cac9193a64b4bd0b708b45568f16ef081d52b88e8fc66f6d7/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f363164316462333434343639363762303834386166363831393861333932303637653066353837302e737667"><img src="https://camo.githubusercontent.com/dfec28fbe7f7a06cac9193a64b4bd0b708b45568f16ef081d52b88e8fc66f6d7/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f363164316462333434343639363762303834386166363831393861333932303637653066353837302e737667" alt="替代" title="Repobeats 分析图像" data-canonical-src="https://repobeats.axiom.co/api/embed/61d1db34446967b0848af68198a392067e0f5870.svg" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--sponsor-tabler" class="anchor" aria-hidden="true" tabindex="-1" href="#-sponsor-tabler"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💕 赞助桌布</font></font></h2>
+<p dir="auto"><a href="https://github.com/sponsors/codecalm"><img src="/tabler/tabler/raw/dev/src/static/sponsor-banner-readme.png?raw=true" alt="赞助商桌" style="max-width: 100%;"></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-sponsors" class="anchor" aria-hidden="true" tabindex="-1" href="#sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为赞助商来支持该项目。</font><font style="vertical-align: inherit;">您的徽标将显示在本自述文件中，并带有指向您网站的链接。</font></font><a href="https://opencollective.com/tabler#sponsor" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为赞助商！</font></font></a></p>
+<p dir="auto"><a href="https://opencollective.com/tabler/tiers/sponsor/0/website" rel="nofollow"><img src="https://camo.githubusercontent.com/7854086b2c97e327c2f52b226d949b70b74ee556130013c0a588034f47cd25a2/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f302f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/0/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/1/website" rel="nofollow"><img src="https://camo.githubusercontent.com/0c6d330cdea95324c6fa6d2c5bd6bfe24937d10fa0f51241989d8cfdf08631c8/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f312f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/1/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/2/website" rel="nofollow"><img src="https://camo.githubusercontent.com/5a14bde7cae3a63c0cc99b872c63f9eab606a66dd0a1e538d6c06c4d82a962b5/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f322f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/2/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/3/website" rel="nofollow"><img src="https://camo.githubusercontent.com/0b01755091f85f42828195926f2981040f6aa643924575190ffe859c3fd842bf/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f332f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/3/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/4/website" rel="nofollow"><img src="https://camo.githubusercontent.com/51857909ab30abff3540e52399729087b0606b22c15b7e262e9ab224e234fbfa/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f342f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/4/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/5/website" rel="nofollow"><img src="https://camo.githubusercontent.com/2bce856bbfa4713458de17a3e9e1fde3454dd7977fb9b3b26152701ec676ae4a/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f352f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/5/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/6/website" rel="nofollow"><img src="https://camo.githubusercontent.com/4fff255b9a965812847b64a4bd9858a782a29c93fe6de521ff33ca11d7c91f43/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f362f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/6/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/7/website" rel="nofollow"><img src="https://camo.githubusercontent.com/6ceb901e0611e5124116bc3f83214506b34e37f405d0544d283c156269c25f03/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f372f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/7/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/8/website" rel="nofollow"><img src="https://camo.githubusercontent.com/679f1d0bd6b947995dda9071c0576c83024e88fa481b2278497a366e9c06187e/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f382f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/8/avatar.svg" style="max-width: 100%;"></a>
+<a href="https://opencollective.com/tabler/tiers/sponsor/9/website" rel="nofollow"><img src="https://camo.githubusercontent.com/91def56539579c2130bd6825153420990a1bf66e00dbfb0adf62b814d02cc7c0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f73706f6e736f722f392f6176617461722e737667" data-canonical-src="https://opencollective.com/tabler/tiers/sponsor/9/avatar.svg" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--setup-environment" class="anchor" aria-hidden="true" tabindex="-1" href="#-setup-environment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📦 设置环境</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要使用我们的构建系统并在本地运行我们的文档，您需要 Tabler 源文件的副本。</font><font style="vertical-align: inherit;">请按照以下步骤操作：</font></font></p>
+<ol dir="auto">
+<li><a href="https://nodejs.org/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Node.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，我们用它来管理我们的依赖项。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导航到根</font></font><code>/tabler</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录并运行</font></font><code>pnpm install</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以安装 中列出的本地依赖项</font></font><code>package.json</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://www.ruby-lang.org/en/documentation/installation/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装Ruby</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 推荐版本是</font></font><a href="https://cache.ruby-lang.org/pub/ruby/2.7/ruby-2.7.6.tar.gz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.7.6</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://bundler.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Bundler</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并</font></font><code>gem install bundler</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后运行</font></font><code>bundle install</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">它将安装所有 Ruby 依赖项，例如</font></font><a href="https://jekyllrb.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jekyll 和 plugins</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ol>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OSX 用户</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国家公共管理</font></font><code>pnpm install</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Ruby（推荐 2.5.*）
+</font></font><code>brew install ruby @2.5</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装捆绑器
+</font></font><code>gem install bundler</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装
+</font></font><code>bundle install</code></li>
+</ol>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果捆绑程序出现任何错误，请尝试</font></font></li>
+</ul>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>sudo rm -rf /Library/Developer/CommandLineTools
 sudo xcode-select --install
-```
-5. Run NPM
-	```npm run start```
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo rm -rf /Library/Developer/CommandLineTools
+sudo xcode-select --install" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ol start="5" dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 NPM
+</font></font><code>npm run start</code></li>
+</ol>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows 用户</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<ol dir="auto">
+<li><a href="https://git-scm.com/download/win" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在目录中</font><a href="https://git-scm.com/download/win" rel="nofollow"><font style="vertical-align: inherit;">安装 Git</font></a></font><code>C:\Program Files\git\bin</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并运行</font></font><code>npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以更改默认 shell。</font></font></li>
+<li><a href="https://rubyinstaller.org/downloads/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Ruby+Devkit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 推荐版本是</font></font><a href="https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.6-1/rubyinstaller-devkit-2.7.6-1-x64.exe"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.7.6</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://jekyllrb.com/docs/installation/windows/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以顺利启动并运行 Jekyll。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完成设置后，您将能够运行命令行提供的各种命令。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-build-locally" class="anchor" aria-hidden="true" tabindex="-1" href="#build-locally"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地构建</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您需要拥有</font></font><code>pnpm</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并</font></font><code>bundler</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装。</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从根</font></font><code>/tabler</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录，在命令行中运行安装：</font></font></li>
+</ol>
+<ul dir="auto">
+<li><code>pnpm install</code></li>
+<li><code>bundler install</code></li>
+</ul>
+<ol start="2" dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后执行</font></font><code>pnpm run start-plugins</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动应用程序堆栈。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在浏览器中打开</font></font><a href="http://localhost:3000" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:3000</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，瞧。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录中的任何更改都</font></font><code>/src</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将构建应用程序并刷新页面。</font></font></li>
+</ol>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：运行</font></font><code>pnpm run build</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改革一次性构建应用程序而无需刷新。</font><font style="vertical-align: inherit;">打开</font></font><a href="http://localhost:3001" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:3001</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置 Web 服务器。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-installation" class="anchor" aria-hidden="true" tabindex="-1" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tabler 通过 npm 分发。</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>npm install --save @tabler/core</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm install --save @tabler/core" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-running-with-docker" class="anchor" aria-hidden="true" tabindex="-1" href="#running-with-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Docker 运行</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不想在本地环境中安装node/npm/ruby及其依赖项，可以使用提供的Dockerfile构建docker镜像。</font><font style="vertical-align: inherit;">此 Dockerfile 作为示例提供，用于启动运行 Tabler 的容器。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何使用此图像的示例：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建 tabler 图像：</font></font><code>docker build -t tabler .</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 tabler 映像，</font></font><code>src</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">同时将目录和</font></font><code>_config.yml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件安装到容器中。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不要忘记公开端口 3000，以便您可以在本地浏览网站。</font><font style="vertical-align: inherit;">您还可以公开端口 3001 以访问 BrowserSync</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker run -p 3000:3000 -p 3001:3001 -v <span class="pl-s"><span class="pl-pds">$(</span>pwd<span class="pl-pds">)</span></span>/src:/app/src -v <span class="pl-s"><span class="pl-pds">$(</span>pwd<span class="pl-pds">)</span></span>/_config.yml:/app/_config.yml tabler</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -p 3000:3000 -p 3001:3001 -v $(pwd)/src:/app/src -v $(pwd)/_config.yml:/app/_config.yml tabler" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在打开浏览器访问</font></font><a href="http://localhost:3000" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:3000</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">编辑</font></font><code>src/</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件夹中的任何内容，并观察浏览器在重建页面后刷新页面。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-cdn-support" class="anchor" aria-hidden="true" tabindex="-1" href="#cdn-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CDN支持</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm 包中包含的所有文件都</font></font><code>@tabler/core</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以通过 CDN 获取。</font></font></p>
+<h4 tabindex="-1" dir="auto"><a id="user-content-javascript" class="anchor" aria-hidden="true" tabindex="-1" href="#javascript"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript</font></font></h4>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-kos">&lt;</span><span class="pl-ent">script</span> <span class="pl-c1">src</span>="<span class="pl-s">https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/js/tabler.min.js</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">script</span><span class="pl-kos">&gt;</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="<script src=&quot;https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/js/tabler.min.js&quot;></script>" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h4 tabindex="-1" dir="auto"><a id="user-content-styles" class="anchor" aria-hidden="true" tabindex="-1" href="#styles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">风格</font></font></h4>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-kos">&lt;</span><span class="pl-ent">link</span> <span class="pl-c1">rel</span>="<span class="pl-s">stylesheet</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css</span>"<span class="pl-kos">&gt;</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="<link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css&quot;>" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-feature-requests" class="anchor" aria-hidden="true" tabindex="-1" href="#feature-requests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能请求</font></font></h2>
+<p dir="auto"><a href="https://tabler.canny.io/feature-requests" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://tabler.canny.io/feature-requests</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-bugs-and-feature-requests" class="anchor" aria-hidden="true" tabindex="-1" href="#bugs-and-feature-requests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误和功能请求</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发现错误或有功能请求？</font></font><a href="https://github.com/tabler/tabler/issues/new"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请打开一个新问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--creators" class="anchor" aria-hidden="true" tabindex="-1" href="#-creators"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤓 创作者</font></font></h2>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帕韦乌·库纳</font></font></strong></p>
+<ul dir="auto">
+<li><a href="https://twitter.com/codecalm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://twitter.com/codecalm</font></font></a></li>
+<li><a href="https://github.com/codecalm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/codecalm</font></font></a></li>
+<li><a href="https://codecalm.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://codecalm.net</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--contributors" class="anchor" aria-hidden="true" tabindex="-1" href="#-contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨&zwj;🚀 贡献者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个项目的存在要感谢所有做出贡献的人。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a04cb72082d5b4147c9e87ad130b8f3ae0b92f1a6e596c3ab1e55e0d0dedac28/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365"><img src="https://camo.githubusercontent.com/a04cb72082d5b4147c9e87ad130b8f3ae0b92f1a6e596c3ab1e55e0d0dedac28/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365" data-canonical-src="https://opencollective.com/tabler/contributors.svg?width=890&amp;button=false" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--backers" class="anchor" aria-hidden="true" tabindex="-1" href="#-backers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟支持者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢我们所有的支持者！</font><font style="vertical-align: inherit;">🙏</font></font><a href="https://opencollective.com/tabler#backer" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为支持者</font></font></a></p>
+<p dir="auto"><a href="https://opencollective.com/tabler#backers" rel="nofollow"><img src="https://camo.githubusercontent.com/83d0fa8e80bfc593e93bc1411170cb23a4c50b6a87f1d0c8306df2b712aad3fb/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f7461626c65722f74696572732f6261636b65722e7376673f77696474683d38393026627574746f6e3d66616c7365" data-canonical-src="https://opencollective.com/tabler/tiers/backer.svg?width=890&amp;button=false" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://github.com/tabler/tabler/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributors-" class="anchor" aria-hidden="true" tabindex="-1" href="#contributors-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者✨</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢这些优秀的人（</font></font><a href="https://allcontributors.org/docs/en/emoji-key" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表情符号键</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）：</font></font></p>
 
 
-**Windows users**:
-
-1. [Install Git](https://git-scm.com/download/win) in `C:\Program Files\git\bin` directory and run `npm config set script-shell "C:\\Program Files\\git\\bin\\bash.exe"` to change the default shell.
-2. [Install Ruby+Devkit](https://rubyinstaller.org/downloads/) - the recommended version is [2.7.6](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.6-1/rubyinstaller-devkit-2.7.6-1-x64.exe).
-3. [Read guide](https://jekyllrb.com/docs/installation/windows/) to get Jekyll up and running without problems.
-
-Once you complete the setup, you'll be able to run the various commands provided from the command line.
 
 
-## Build locally
-
-You need to have `pnpm` and `bundler` installed.
-
-1. From the root `/tabler` directory, run installation in the command line:
-  - `pnpm install` 
-  - `bundler install` 
-2. Then execute `pnpm run start-plugins` to start up the application stack.
-3. Open [http://localhost:3000](http://localhost:3000) in your browser, and voilà.
-4. Any change in the `/src` directory will build the application and refresh the page.
-
-**Note**:
-Run `pnpm run build` for reforms a one off build application without refresh.
-Open [http://localhost:3001](http://localhost:3001) to configure the Web server.
-
-## Installation
-
-Tabler is distributed via npm.
-
-```sh
-npm install --save @tabler/core
-```
-
-## Running with Docker
-
-If you don't want to install node/npm/ruby and the dependencies on your local environment, you can use the provided Dockerfile to build a docker image.
-This Dockerfile is provided as an example to spin-up a container running Tabler.
-
-Example of how to use this image:
-
-1. Build the tabler image : `docker build -t tabler .`
-2. Run the tabler image while mounting the `src` directory as well as the `_config.yml` file into the container.
-
-Don't forget to expose the port 3000 so you can browse the website locally.
-You can also expose the port 3001 to have access to BrowserSync
-
-```sh
-docker run -p 3000:3000 -p 3001:3001 -v $(pwd)/src:/app/src -v $(pwd)/_config.yml:/app/_config.yml tabler
-```
-
-Now open your browser to [http://localhost:3000](http://localhost:3000). Edit anything in the `src/` folder and watch your browser refresh the page after it has been rebuilt.
 
 
-### CDN support
-
-All files included in `@tabler/core` npm package are available over a CDN.
-
-#### Javascript
-
-```html
-<script src="https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/js/tabler.min.js"></script>
-```
-
-#### Styles
-
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css">
-```
-
-## Feature requests
-
-https://tabler.canny.io/feature-requests
-
-
-## Bugs and feature requests
-
-Found a bug or have a feature request? [Please open a new issue](https://github.com/tabler/tabler/issues/new).
-
-
-## 🤓 Creators
-
-**Paweł Kuna**
-
-- <https://twitter.com/codecalm>
-- <https://github.com/codecalm>
-- <https://codecalm.net>
-
-
-## 👨‍🚀 Contributors
-
-This project exists thanks to all the people who contribute.
-
-<img src="https://opencollective.com/tabler/contributors.svg?width=890&button=false" />
-
-## 🌸 Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/tabler#backer)
-
-<a href="https://opencollective.com/tabler#backers" target="_blank"><img src="https://opencollective.com/tabler/tiers/backer.svg?width=890&button=false" /></a>
-
-## License
-
-See the [LICENSE](https://github.com/tabler/tabler/blob/master/LICENSE) file.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目遵循</font></font><a href="https://github.com/all-contributors/all-contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有贡献者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">规范。</font><font style="vertical-align: inherit;">欢迎任何形式的贡献！</font></font></p>
+</article></div>
